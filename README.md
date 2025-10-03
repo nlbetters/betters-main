@@ -1,7 +1,7 @@
 # Nicholas Betters – Personal Projects
 
 Welcome to my main GitHub repository! 🎉  
-This repo serves as the central hub for my personal projects, experiments, and learning journey in computer science, engineering, and beyond. It’s a mix of coursework-inspired projects, independent builds, and explorations into areas I find interesting.
+This repo serves as the central hub for my personal projects, experiments, and learning journey in computer science, engineering, and beyond. It’s a mix of past school projects, independent builds, and explorations into areas I find interesting.
 
 ---
 

@@ -1,0 +1,16 @@
+morse-code/
+├─ README.md
+├─ pyproject.toml           # or requirements.txt
+├─ morse/
+│  ├─ __init__.py
+│  ├─ constants.py          # timing defaults, sample rate, etc.
+│  ├─ tables.py             # MORSE_CODE and REVERSE_CODE
+│  ├─ timing.py             # WPM↔unit conversions, gaps
+│  ├─ codec.py              # encode_text, decode_symbols
+│  ├─ audio.py              # tone generation + playback; mic stream + detection
+│  ├─ detector.py           # classify signal into dots/dashes/spaces
+│  └─ cli.py                # interactive shell (listen/write/stop/quit)
+└─ tests/
+   ├─ test_tables.py
+   ├─ test_codec.py
+   └─ test_timing.py

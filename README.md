@@ -10,7 +10,8 @@ Each folder in this repository represents a different project.
 As this is a new repository, I haven't worked on many projects, but I will add more as time goes on!
 
 - [auto-door-lock](auto-door-lock/)
-- [morse_code](morse_code/)
+- [morse-code](morse-code/)
+- [bfno-research-project](bfno-research-project/)
 
 ## 📬 Contact
 - **Email**: [nbet@umd.edu](mailto:nbet@umd.edu)  

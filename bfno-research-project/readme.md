@@ -38,4 +38,5 @@ I also thank **Professor Michael Shields** and the **ROSEI program** for giving 
 
 
 ## Additional Materials
-I’ve attached my final poster presentation in **`bfno-research-project/betters-rosei-bfno-poster.pdf`**, which includes detailed visuals and explanations about the project, methodology, and applications.
+I’ve attached my final poster presentation in **`bfno-research-project/betters-rosei-bfno-poster.pdf`**, which includes detailed visuals and explanations about the project, methodology, and applications.  
+Additionally, the **[UQpy Documentation](https://uqpyproject.readthedocs.io/en/latest/)** can be found here for more information about the framework and its modules.

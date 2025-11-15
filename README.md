@@ -9,9 +9,10 @@ This repo serves as the central hub for my personal projects, experiments, and l
 Each folder in this repository represents a different project.  
 As this is a new repository, I haven't worked on many projects, but I will add more as time goes on!
 
-- [auto-door-lock](auto-door-lock/)
-- [morse-code](morse-code/)
 - [bfno-research-project](bfno-research-project/)
+- [morse-code](morse-code/)
+- [artificial-neural-network](artificial-neural-network/)
+- [auto-door-lock](auto-door-lock/)
 
 ## 📬 Contact
 - **Email**: [nbet@umd.edu](mailto:nbet@umd.edu)  
